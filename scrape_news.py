@@ -96,7 +96,7 @@ def format_news_to_markdown(news_items):
         # markdown_content += f"_{item['short_desc']}_\n\n"
 
         # Full content
-        markdown_content += f"_{item['full_content']}_\n\n"
+        markdown_content += f"*{item['full_content']}*\n\n"
 
         # Image associated with the news
         markdown_content += f"![Image]({item['image_url']})\n\n"
