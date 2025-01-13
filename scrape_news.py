@@ -87,7 +87,7 @@ def format_news_to_markdown(news_items):
         markdown_content += f"\n\n---\n\n"
         
         # Title without link and formatted bigger
-        markdown_content += f"_## {item['title']}_\n"
+        markdown_content += f"## {item['title']}\\n"
 
         # Date on a new line
         markdown_content += f"\n_Published on: {news_date}_\n\n"
@@ -96,10 +96,10 @@ def format_news_to_markdown(news_items):
         # markdown_content += f"_{item['short_desc']}_\n\n"
 
         # Full content
-        markdown_content += f"_{item['full_content']}_\n\n"
+        markdown_content += f"{item['full_content']}"
 
         # Image associated with the news
-        markdown_content += f"![Image]({item['image_url']})\n\n"
+        markdown_content += f"\n\n![Image]({item['image_url']})\n\n"
 
         # Read more link
         # markdown_content += f"[Read more]({item['link']})\n"
