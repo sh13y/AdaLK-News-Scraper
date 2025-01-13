@@ -14,7 +14,26 @@ NEWS_URL = "https://www.ada.lk/latest-news/11"
 LOG_FILE = "news_log.txt"
 MARKDOWN_FILE = "README.md"
 
-# Function to fetch and parse news page
+def fetch_full_content(news_url):
+    response = requests.get(news_url)
+    if response.status_code != 200:
+        print(f"Failed to fetch content from {news_url}.")
+        return ""
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Find the main content inside the single-body-wrap class
+    content = soup.find("div", class_="single-body-wrap")
+
+    # Extract the text from all <p> tags within the content
+    if content:
+        paragraphs = content.find_all("p")
+        full_content = "\n".join([para.get_text(strip=True) for para in paragraphs])
+        return full_content
+    else:
+        return "Full content not found."
+
+# Example of how to use this function
 def fetch_news():
     response = requests.get(NEWS_URL)
     if response.status_code != 200:
@@ -24,7 +43,6 @@ def fetch_news():
     soup = BeautifulSoup(response.text, "html.parser")
     news_items = []
 
-    # Find all news preview containers
     for news_div in soup.find_all("div", class_="row bg-white cat-b-row mt-3"):
         link = news_div.find("a", href=True)["href"]
         title = news_div.find("h5").get_text(strip=True)
@@ -32,12 +50,16 @@ def fetch_news():
         short_desc = news_div.find("p", class_="cat-b-text").get_text(strip=True)
         image_url = news_div.find("img")["src"]
 
+        # Fetch the full content for the news
+        full_content = fetch_full_content(link)
+
         news_items.append({
             "link": link,
             "title": title,
             "date": date,
             "short_desc": short_desc,
-            "image_url": image_url
+            "image_url": image_url,
+            "full_content": full_content
         })
 
     return news_items
@@ -71,13 +93,16 @@ def format_news_to_markdown(news_items):
         markdown_content += f"\nPublished on: {news_date}\n\n"
 
         # Short description
-        markdown_content += f"_{item['short_desc']}_\n\n"
+        # markdown_content += f"_{item['short_desc']}_\n\n"
+
+        # Full content
+        markdown_content += f"_{item['full_content']}_\n\n"
 
         # Image associated with the news
         markdown_content += f"![Image]({item['image_url']})\n\n"
 
         # Read more link
-        markdown_content += f"[Read more]({item['link']})\n"
+        # markdown_content += f"[Read more]({item['link']})\n"
     
     return markdown_content
 
