@@ -97,16 +97,27 @@ def format_news_to_markdown(news_items):
     return markdown_content
 
 def update_news_md(new_news):
-    existing_news = ""
+    static_content = ""
+    dynamic_content = ""
+
+    # Read the existing README and separate static content
     if os.path.exists(MARKDOWN_FILE):
         with open(MARKDOWN_FILE, "r", encoding="utf-8") as f:
-            existing_news = f.read()
+            content = f.read()
+            if "<!-- STATIC-START -->" in content and "<!-- STATIC-END -->" in content:
+                static_content = content.split("<!-- STATIC-END -->")[0] + "<!-- STATIC-END -->"
+                dynamic_content = content.split("<!-- STATIC-END -->")[1]
 
+    # Generate new dynamic content
     new_news_markdown = format_news_to_markdown(new_news)
-    new_content = existing_news + "\n" + new_news_markdown
 
+    # Combine static and updated dynamic content
+    updated_content = static_content + "\n" + new_news_markdown
+
+    # Write back to README
     with open(MARKDOWN_FILE, "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(updated_content)
+
 
 def main():
     news_items = fetch_news()
