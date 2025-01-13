@@ -12,7 +12,7 @@ NEWS_URL = "https://www.ada.lk/latest-news/11"
 
 # File to store previously fetched news links
 LOG_FILE = "news_log.txt"
-MARKDOWN_FILE = "news.md"
+MARKDOWN_FILE = "README.md"
 
 # Function to fetch and parse news page
 def fetch_news():
@@ -54,7 +54,7 @@ def update_log(new_urls):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write("\n".join(new_urls) + "\n")
 
-# Function to format the news into markdown format with updated structure
+# Function to format the news into markdown format for README.md with updated structure
 def format_news_to_markdown(news_items):
     markdown_content = ""
     for item in news_items:
@@ -72,13 +72,13 @@ def format_news_to_markdown(news_items):
 
         # Short description
         markdown_content += f"_{item['short_desc']}_\n\n"
-        
+
         # Image associated with the news
         markdown_content += f"![Image]({item['image_url']})\n\n"
 
         # Read more link
         markdown_content += f"[Read more]({item['link']})\n"
-
+    
     return markdown_content
 
 # Function to update the README file with new news
@@ -114,7 +114,7 @@ def main():
         # Update the markdown file with new news
         update_news_md(new_news)
 
-        print(f"Added {len(new_news)} new news articles to news.md.")
+        print(f"Added {len(new_news)} new news articles to README.md.")
     else:
         print("No new news to add.")
 
