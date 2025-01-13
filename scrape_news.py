@@ -91,7 +91,7 @@ def format_news_to_markdown(news_items):
         markdown_content += f"## {item['title']}\n\n"
         markdown_content += f"\n*Published on: {news_date}*\n\n"
         # markdown_content += f"_{item['short_desc']}_\n\n"
-        markdown_content += f"_{item['full_content']}_"
+        markdown_content += f"{item['full_content']}"
         markdown_content += f"\n\n![Image]({item['image_url']})\n\n"
         # markdown_content += f"[Go]({item['link']})\n"
     return markdown_content
