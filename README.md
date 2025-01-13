@@ -5,9 +5,6 @@ Stay updated with the latest news from [Ada.lk](https://www.ada.lk), dynamically
 Perfect for anyone who loves news delivered with a touch of automation.  
 
 ---
----
-
-
 <!-- STATIC-END -->
 
 ## ප්‍රදේශ කිහිපයකට නාය යාමේ අනතුරු ඇගවීම් නිකුත් කරයි
