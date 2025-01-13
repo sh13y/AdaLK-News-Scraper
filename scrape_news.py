@@ -54,7 +54,7 @@ def update_log(new_urls):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write("\n".join(new_urls) + "\n")
 
-# Function to format the news into markdown format with improved readability
+# Function to format the news into markdown format with updated structure
 def format_news_to_markdown(news_items):
     markdown_content = ""
     for item in news_items:
@@ -64,11 +64,11 @@ def format_news_to_markdown(news_items):
         # Adding a line separator before each news item for clarity
         markdown_content += f"\n\n---\n\n"
         
-        # Title with the link
-        markdown_content += f"**[{item['title']}]({item['link']})**\n"
+        # Title without link and formatted bigger
+        markdown_content += f"# {item['title']}\n"
 
-        # Date of the article
-        markdown_content += f"*Published on: {news_date}*\n\n"
+        # Date on a new line
+        markdown_content += f"\nPublished on: {news_date}\n\n"
 
         # Short description
         markdown_content += f"_{item['short_desc']}_\n\n"
