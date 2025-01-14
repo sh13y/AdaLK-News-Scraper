@@ -11,6 +11,26 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 ### License
 WTFPL License. Do whatever you want with this, but if it cures boredom, makes you famous, or saves your cat from a burning building, I wouldn’t mind a coffee (or a meme) as thanks. 😉
 <!-- STATIC-END -->
+
+
+
+---
+
+## වසර එක්ලක්ෂ 60,000ට පසු දුර්ලභ වල්ගා තරුවන් නැරඹීමට අවස්ථාව
+
+
+*Published on: January 14, 2025, 01:00 PM*
+
+වසර 160,000ට පසු පළමු වරට ලොව පුරා අහසේ දීප්තිමත් දුර්ලභ වල්ගා තරුවක් ඉදිරි දින කිහිපයේදී දැකගත හැකි බව නාසා ආයතනය පවසයි.
+
+C/2024 G3 (Atlas) යනුවෙන් නම් කර ඇති එම වල්ගා තරුව දකුණු අර්ධගෝලයේ සිට පියවි ඇසින් හොදින් නිරීක්ෂණය කළ හැකි බවද නාසා ආයතනය සඳහන් කර තිබේ.
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_f4c965bf23.jpg)
+
+
+
 ---
 ---
 
@@ -686,6 +706,3 @@ WTFPL License. Do whatever you want with this, but if it cures boredom, makes yo
 
 
 ![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_112962e70a.jpg)
-
-
-
