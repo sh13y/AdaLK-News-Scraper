@@ -8,6 +8,8 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 - Saves full article content and metadata.
 - Auto-updates this README with the latest articles.
 
+### License
+WTFPL License. Do whatever you want with this, but if it cures boredom, makes you famous, or saves your cat from a burning building, I wouldn’t mind a coffee (or a meme) as thanks. 😉
 <!-- STATIC-END -->
 ---
 ---
