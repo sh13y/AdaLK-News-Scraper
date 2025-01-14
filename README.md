@@ -1,7 +1,18 @@
+# AdaLK News Scraper 🚀
 
+This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-news/11) and updates this file.
 
+<!-- STATIC-START -->
+### How it Works:
+- Fetches news articles hourly using GitHub Actions.
+- Saves full article content and metadata.
+- Auto-updates this README with the latest articles.
 
+### License
+WTFPL License. Do whatever you want with this, but if it cures boredom, makes you famous, or saves your cat from a burning building, I wouldn’t mind a coffee (or a meme) as thanks. 😉
+<!-- STATIC-END -->
 
+---
 ---
 
 ## දීර්ඝ නිවාඩුවට ගම්බිම් බලා ගිය ජනතාවට නැවත පැමිණීමට බස් සහ දුම්රිය යොදවයි
