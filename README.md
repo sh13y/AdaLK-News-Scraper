@@ -12,33 +12,18 @@ Perfect for anyone who loves news delivered with a touch of automation.
 
 ---
 
-## තෛපොංගල් දිනය අදයි
+## අද දිනයේ පළාත් කිහිපයකට මි.මී.75ක වැසි
 
 
-*Published on: January 14, 2025, 08:00 AM*
+*Published on: January 14, 2025, 09:06 AM*
 
-හින්දු බැතිමතුන්ගේ ප්‍රධානතම ආගමික උත්සවයක් වන තෛපොංගල් උත්සවය අදට (14දා) යෙදී තිබේ.
+උතුරු, නැගෙනහිර, උතුරු-මැද, ඌව සහ දකුණු යන පළාත් වලත්, මාතලේ සහ නුවරඑළිය යන දිස්ත්‍රික්ක වලත් ඇතැම් ස්ථාන වලට අද(14දා) මි.මී.75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තු නිවේදනය කරයි.
 
-පිරිසිදු බව, කෘතවේදීත්වය,සෞභාග්‍ය,සතුට සහ සමගිය උදාකරවන තෛපොංගල් උත්සවය අනාදීමත් කාලයක සිට හින්දු ජනයා ඉතා උත්සවාකාරයෙන් සමරන උත්සවයකි.
-
-
-
-![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_705c3eabf3.jpg)
+සෙසු ප්‍රදේශවල සමස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම නිවේදනයේ සඳහන් කර ඇත.
 
 
 
----
-
-## රුසියා - යුක්රේන යුද්ධයේදී උතුරු කොරියානු සොල්දාදුවන් 300ක් මරුට
 
 
-*Published on: January 13, 2025, 09:00 PM*
-
-රුසියා - යුක්රේන යුද්ධයේදී උතුරු කොරියානු සොල්දාදුවන් 300ක්  ජීවිතක්ෂයට පත්ව තිබේ.
-
-එමෙන්ම තවත් සොල්දාදුවන් 2700ක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-
-
-![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_7627c07c75.jpg)
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_55f0553982.jpg)
 
