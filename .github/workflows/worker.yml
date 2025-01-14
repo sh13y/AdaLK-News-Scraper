@@ -2,7 +2,7 @@ name: Scrape Latest News
 
 on:
   schedule:
-  - cron: "30 * * * *"
+    - cron: "30 * * * *"  # Runs at 30 minutes past the hour
   workflow_dispatch:  # Allows for manual trigger
 
 jobs:
@@ -32,6 +32,7 @@ jobs:
           git add README.md news_log.json
           if git diff-index --quiet HEAD; then
             echo "No changes to commit."
+            exit 0
           else
             git commit -m "Update README.md with latest news"
             git push
@@ -39,4 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: No Changes Detected
+        if: ${{ success() && steps.commit.outputs.changes == '' }}
+        run: echo "No updates to README.md. Workflow completed successfully."
       
