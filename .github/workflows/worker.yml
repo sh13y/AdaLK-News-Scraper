@@ -2,7 +2,7 @@ name: Scrape Latest News
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Every hour at minute 0
+  - cron: "30 * * * *"
   workflow_dispatch:  # Allows for manual trigger
 
 jobs:
