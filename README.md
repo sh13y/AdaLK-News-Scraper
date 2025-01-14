@@ -1,7 +1,15 @@
+# AdaLK News Scraper 🚀
 
+This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-news/11) and updates this file.
 
+<!-- STATIC-START -->
+### How it Works:
+- Fetches news articles hourly using GitHub Actions.
+- Saves full article content and metadata.
+- Auto-updates this README with the latest articles.
 
-
+<!-- STATIC-END -->
+---
 ---
 
 ## ඩිජිටල් හැඳුනුම්පත මේ මස අගදී
