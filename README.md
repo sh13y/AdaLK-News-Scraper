@@ -16,6 +16,23 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## විදුලි බිල අඩුකිරිම මුදල් අමාත්‍යාංශයේ නිර්දේශ අනුවයි
+
+
+*Published on: January 17, 2025, 05:12 PM*
+
+විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපයෝගිතා කොමිසම නිර්දේශ ක්‍රියාත්මක කිරීම එම නිර්දේශ නිල වශයෙන් ලැබීමෙන් පසු මුදල් අමාත්‍යංශයේ උපදෙස් අනුව සිදුකිරීමට නියමිත බව ලංකා විදුලිබල මණ්ඩලය පවසයි.
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_ba98e3f032.jpg)
+
+
+
+---
+
 ## උඩරට දුම්රිය ධාවනයට බාධා
 
 
