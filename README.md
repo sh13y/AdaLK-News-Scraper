@@ -16,6 +16,23 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## වැටලීමකදී සොයාගත් වැඩිම මුදල් ප්‍රමාණය පොලිස් භාරයට
+
+
+*Published on: January 17, 2025, 08:47 PM*
+
+පොලීසිය විසින් කරන ලද වැටලීමකදී සොයාගත් වැඩිම මුදල් ප්‍රමාණය සොයා ගැනිමට පොලීසිය සමත්ව තිබේ. අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් සැකකරුවෙක් සම්බන්ධයෙන් කළ වැඩිදුර විමර්ශනයකදී රුපියල් කෝටි 28කට අධික මුදල් ප්‍රමාණයක් සොයා ගැනීමට පොලීසිය සමත්ව තිබේ.
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_5514783a67.jpg)
+
+
+
+---
+
 ## රජයේ ආයතන 166 ක සේවා ඉහළ නංවන්න මහජන අදහස් විමසයි
 
 
