@@ -16,6 +16,23 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## හිටපු අමාත්‍ය විජිත් විජයමුණි සොයිසා අත්අඩංගුවට
+
+
+*Published on: January 19, 2025, 02:57 PM*
+
+හිටපු අමාත්‍ය විජිත් විජයමුණි සොයිසා මහතා අත්අඩංගුවට ගෙන තිබේ.
+
+නීති විරෝධීව ආනයනය කරන ලද වාහන අමතර කොටස්  යොදා වාහනයක් එකලස් කර, ඊට ව්‍යාජ ලේකන සකස් කිරීමේ වරදට ඔහුව වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකයෙන් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_8ad6825fae.jpg)
+
+
+
+---
+
 ## බස් රථ අනතුරින් තුවාල ලැබූ පිරිස ඉහළට
 
 
