@@ -16,6 +16,27 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## ඊශ්‍රායල - හමාස් සටන් විරාමය ආරම්භ කරයි
+
+
+*Published on: January 19, 2025, 05:41 PM*
+
+ඊශ්‍රායල - හමාස් සටන් විරාමය ආරම්භ කර තිබේ.
+
+මාස 15ක් පුරා පැවති ඊශ්‍රායල - හමාස් යුධ ගැටුම් හේතුවෙන් පලස්තීන වැසියන් 47,000ක් පමණ ජීවිතක්ෂයට පත්විය.
+
+
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_f40bfee96c.jpg)
+
+
+
+---
+
 ## ජ්‍යෙෂ්ඨ මාධ්‍ය​​වේදී වික්ටර් අයිවන් අභාවප්‍රාප්ත වෙයි
 
 
