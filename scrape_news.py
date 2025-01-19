@@ -45,7 +45,10 @@ def fetch_news():
         title = news_div.find("h5").get_text(strip=True)
         date = news_div.find("h6").get_text(strip=True).replace("•", "").strip()
         short_desc = news_div.find("p", class_="cat-b-text").get_text(strip=True)
-        image_url = news_div.find("img")["src"]
+        
+        # Handle missing images safely
+        image_tag = news_div.find("img")
+        image_url = image_tag["src"] if image_tag and "src" in image_tag.attrs else None
 
         # Fetch the full content for the news
         full_content = fetch_full_content(link)
@@ -92,8 +95,11 @@ def format_news_to_markdown(news_items):
         markdown_content += f"\n*Published on: {news_date}*\n\n"
         # markdown_content += f"_{item['short_desc']}_\n\n"
         markdown_content += f"{item['full_content']}"
-        markdown_content += f"\n\n![Image]({item['image_url']})\n\n"
-        # markdown_content += f"[Go]({item['link']})\n"
+
+        # Only add the image if it exists
+        if item['image_url']:
+            markdown_content += f"\n\n![Image]({item['image_url']})\n\n"
+
     return markdown_content
 
 def update_news_md(new_news):
