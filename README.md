@@ -16,6 +16,23 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## තහනම් පිරමීඩාකාර ආයතන මහ බැංකුව නිවේදනය කරයි
+
+
+*Published on: January 21, 2025, 11:25 AM*
+
+ශ්‍රී ලංකා මහ බැංකුව විසින් විමර්ශනයන් පැවැත්වීමෙන් අනතුරුව ආයතන 1988 අංක 30 දරන බැංකු පනතේ 83 (ඇ) වගන්තිය උල්ලංඝනය කරමින් තහනම් පිරමීඩාකාර යෝජනා ක්‍රම පවත්වා ඇති බවට නිර්ණය කර ඇති අතර, එකී ආයතන මහ බැංකුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_913e673830.jpg)
+
+
+
+---
+
 ## කෙටි කන් බකමූණෙකු මෙරටින් හමුවෙයි
 
 
