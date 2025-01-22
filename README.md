@@ -16,6 +16,25 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## සතොස භාණ්ඩ වර්ග 10ක මිල අඩු කරයි
+
+
+*Published on: January 22, 2025, 07:24 PM*
+
+ජනතාවට සහන සැලසීමේ අපේක්ෂාවෙන් භාණ්ඩ වර්ග 10ක මිල අඩු කිරීමට ලංකා සතොස කටයුතු කර තිබේ. මෙම මිල අඩු කිරීම අද (22දා) සිට ක්‍රියාත්මක බව ලංකා සතොස නිවේදනය කරයි.
+
+
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_3ce436b460.jpg)
+
+
+
+---
+
 ## රුපියල් කෝටි ගණනක් වංචා කළ විදෙස් රැකියා ජාවාරම්කරුවෙක් අල්ලයි
 
 
