@@ -16,6 +16,25 @@ This project scrapes the latest news from [Ada.lk](https://www.ada.lk/latest-new
 
 ---
 
+## කමිඳුට අයි.සී.සී. සම්මානයක්
+
+
+*Published on: January 26, 2025, 03:33 PM*
+
+2024 අදාළව අයි.සී.සී. වසරේ නැගී එන ක්‍රීඩකයා සම්මානය ශ්‍රී ලංකාවේ කමිඳු මෙන්ඩිස්ට හිමිව තිබේ.
+
+ටෙස්ට්, එක්දින සහ විස්සයි 20 තරග රටා තුනෙන්ම පසුගිය වසරේදී කමිඳු මෙන්ඩිස් ලකුණු 1451ක් රැස් කර ඇති අතර, පිතිකරණය සාමාන්‍ය 50ක් පමණ අගයක් රඳවාගෙන ඇත.
+
+
+
+
+
+![Image](https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ada.lk/assets/uploads/image_8a4496dd32.jpg)
+
+
+
+---
+
 ## මිනිස්සුන්ගේ ප්‍රශ්න ජනප්‍රිය වෙන වැඩ කරලා නවත්වන්න බෑ
 
 
